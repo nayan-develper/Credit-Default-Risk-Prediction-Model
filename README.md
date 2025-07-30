@@ -2,6 +2,8 @@
 
 This project is a comprehensive end-to-end machine learning pipeline for predicting the probability of default (PD) on credit risk data. The workflow includes data preprocessing, feature engineering, model training, evaluation, and exporting results.
 
+![Credit Default Pipeline](im1.png)
+
 ## Features
 - Data cleaning and preprocessing
 - Feature engineering and categorical variable treatment
@@ -34,6 +36,7 @@ This project is a comprehensive end-to-end machine learning pipeline for predict
 ## Outputs
 - Trained model files: `logisticPDmodel.pkl`, `RandomForesPDmodel.pkl`, `XGBpdModel.pkl`
 - Predictions exported to Excel: `pd_prediction.xlsx`
+- ![Credit Default Pipeline](im2.png)
 
 ## Project Structure
 - `Credit_Risk_PD_Model.ipynb` – Main notebook with all code and analysis
