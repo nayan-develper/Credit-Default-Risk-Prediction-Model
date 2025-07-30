@@ -40,7 +40,6 @@ This project is a comprehensive end-to-end machine learning pipeline for predict
 - `README.md` – Project overview and instructions
 
 ## Author
-- [Your Name]
+- [Nayan Dubey]
 
-## License
-This project is for educational purposes.
+
